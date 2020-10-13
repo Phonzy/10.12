@@ -1,5 +1,5 @@
 hello world it's great
-manim
+Manim
 ordinary differential equation
 another change mathematical
 tired
